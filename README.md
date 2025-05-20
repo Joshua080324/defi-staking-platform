@@ -1,13 +1,18 @@
-# Sample Hardhat Project
+# DeFi Staking Platform
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+A simple and practical DeFi Staking smart contract built with Solidity for Ethereum.  
+Users can stake ERC-20 tokens and earn rewards over time.
 
-Try running some of the following tasks:
+---
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+## ✨ Features
+
+- Stake ERC-20 tokens
+- Withdraw staked tokens
+- Claim accumulated rewards
+- Reward distribution based on blocks passed
+
+---
+
+## 📂 Project Structure
+
